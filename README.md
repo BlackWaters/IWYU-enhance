@@ -1,3 +1,9 @@
+# IWYU-enhance
+
+A personal experiment repo to enhance the original algorithm.
+
+And also, a good opportunity to learn LLVM.
+
 # Include What You Use #
 
 [![IWYU CI](https://github.com/include-what-you-use/include-what-you-use/actions/workflows/ci.yml/badge.svg)](https://github.com/include-what-you-use/include-what-you-use/actions/workflows/ci.yml)
